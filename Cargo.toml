@@ -9,3 +9,4 @@ edition = "2021"
 nix = "0.25.0"
 rustyline = "10.0.0"
 anyhow = "1.0.64"
+strum = { version = "0.24", features = ["derive"] }
